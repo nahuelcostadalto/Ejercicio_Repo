@@ -1,1 +1,2 @@
-# Ejercicio_Repo
+# Ejercicio_Repo:
+-Mauricio Gómez
